@@ -5,9 +5,9 @@ The mobility of the future with fully automated vehicles enables a complete reth
 Presented at https://www.dtfsy.org.
 
 ## Authors
-Frank Beutenmüller
-Vasco Fontes
-Shashwat Rai
-Lara Vartziotis
-Patrick K.S. Vaudrevange
-Ondrej Vesely
+- Frank Beutenmüller
+- Vasco Fontes
+- Shashwat Rai
+- Lara Vartziotis
+- Patrick K.S. Vaudrevange
+- Ondrej Vesely
